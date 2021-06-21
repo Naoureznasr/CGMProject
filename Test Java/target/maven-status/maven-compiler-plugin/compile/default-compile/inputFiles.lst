@@ -1,0 +1,13 @@
+/home/naouraznasr/Bureau/Test Java/src/main/java/cgm/src/main/java/serviceImpl/ManagePatientServiceImpl.java
+/home/naouraznasr/Bureau/Test Java/src/main/java/cgm/src/main/java/repository/PatientRepository.java
+/home/naouraznasr/Bureau/Test Java/src/main/java/cgm/src/main/java/rest/PatientRest.java
+/home/naouraznasr/Bureau/Test Java/src/main/java/cgm/src/main/java/serviceImpl/ManageVisitServiceImpl.java
+/home/naouraznasr/Bureau/Test Java/src/main/java/cgm/src/main/java/dto/PatientDTO.java
+/home/naouraznasr/Bureau/Test Java/src/main/java/cgm/src/main/java/rest/VisitRest.java
+/home/naouraznasr/Bureau/Test Java/src/main/java/cgm/src/main/java/service/PatientService.java
+/home/naouraznasr/Bureau/Test Java/src/main/java/cgm/src/main/java/service/VisitService.java
+/home/naouraznasr/Bureau/Test Java/src/main/java/cgm/src/main/java/entities/Visit.java
+/home/naouraznasr/Bureau/Test Java/src/main/java/cgm/src/main/java/dto/VisitDTO.java
+/home/naouraznasr/Bureau/Test Java/src/main/java/cgm/src/main/java/entities/Patient.java
+/home/naouraznasr/Bureau/Test Java/src/main/java/Patient.java
+/home/naouraznasr/Bureau/Test Java/src/main/java/cgm/src/main/java/repository/VisitRepository.java
